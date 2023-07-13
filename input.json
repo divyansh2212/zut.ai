@@ -1,0 +1,50 @@
+{
+  "productName": "Digital Alarm Clock",
+  "productDescription": "Digital LED alarm clock with snooze function and adjustable brightness.",
+  "productPrice": "$24.99",
+  "categoryName": "Electronics",
+  "productOptions": [
+    {
+      "optionName": "Color",
+      "optionVariationKey": "color",
+      "optionVariationValue": "Black",
+      "optionVariationPrice": 0
+    },
+    {
+      "optionName": "Color",
+      "optionVariationKey": "color",
+      "optionVariationValue": "White",
+      "optionVariationPrice": 0
+    },
+    {
+      "optionName": "Color",
+      "optionVariationKey": "color",
+      "optionVariationValue": "Silver",
+      "optionVariationPrice": 0
+    },
+    {
+      "optionName": "Display",
+      "optionVariationKey": "display",
+      "optionVariationValue": "LED",
+      "optionVariationPrice": 0
+    },
+    {
+      "optionName": "Display",
+      "optionVariationKey": "display",
+      "optionVariationValue": "LCD",
+      "optionVariationPrice": 0
+    },
+    {
+      "optionName": "Power Source",
+      "optionVariationKey": "powerSource",
+      "optionVariationValue": "Battery",
+      "optionVariationPrice": 0
+    },
+    {
+      "optionName": "Power Source",
+      "optionVariationKey": "powerSource",
+      "optionVariationValue": "AC Adapter",
+      "optionVariationPrice": 4.99
+    }
+  ]
+}
